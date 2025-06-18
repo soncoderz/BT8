@@ -1,7 +1,7 @@
 # BT8
 Trịnh Công Sơn - 2280602769
 Nguyễn Quang Dũng - 2280600405
-
+Nguyễn Phúc Hậu - 2280600890
 ### hướng dẫn chạy code 
 
 ### Yêu cầu hệ thống
